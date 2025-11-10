@@ -207,9 +207,9 @@ export const DUMMY_STUDENT: StudentIdData = {
   dob: '26-12-2004',
   phone: '953514874',
   bloodGroup: 'O+',
-  photo: 'sample.webp',
-  logo: 'logo.jpg',
-  signature: 'sign.jpg',
+  photo: 'public/sample.webp',
+  logo: 'public/logo.jpg',
+  signature: 'public/sign.jpg',
   organization: 'Nandha Engineering College',
   participantId: 'SID-23CS067',
 };
