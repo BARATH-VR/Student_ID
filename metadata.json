@@ -1,0 +1,7 @@
+{
+  "name": " Smart ID Card & Event ID Generator ----2",
+  "description": "A web application for colleges and events to generate professional ID cards quickly, both individually and in bulk. It incorporates AI-powered features to automate design, enhance photos, and personalize cards with dynamic taglines, and supports QR-based attendance and analytics tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
